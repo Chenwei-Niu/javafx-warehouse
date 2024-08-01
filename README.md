@@ -1,1 +1,7 @@
 # javafx-warehouse
+
+![image-20240802072438865](README.assets/image-20240802072438865.png)
+
+![image-20240802072602079](README.assets/image-20240802072602079.png)
+
+![image-20240802072705556](README.assets/image-20240802072705556.png)
